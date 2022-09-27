@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @naoseiumuser
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#  olá eu sou larissa :)
 
-<!---
-naoseiumuser/naoseiumuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+###  sobre mim
+Sou estudante do Colégio Sesi, estou no 3° ano. 
+
+[redes sociais ] @larissacogenievski instagram 
